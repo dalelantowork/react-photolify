@@ -41,7 +41,7 @@ function App() {
     const accessKey = process.env.REACT_APP_ACCESSKEY
     const apiRoot = "https://api.unsplash.com/"
     
-    Axios.get(`${apiRoot}photos/random?client_id=${accessKey}&count=10`)
+    Axios.get(`${apiRoot}photos/random?client_id=${accessKey}&count=30`)
     .then((res)=>{
       //console.log(res);
       setImages([...images, ...res.data]);
