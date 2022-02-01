@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Photo Album app
+ReactJS Frontend using hooks on styled-components, infinite-scroll and loading
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
