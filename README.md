@@ -1,5 +1,8 @@
 # Photo Album app
-ReactJS Frontend using hooks on styled-components, infinite-scroll and loading
+ReactJS Frontend using hooks on styled-components, infinite-scroll and loading \
+- Lazyload
+- React Hooks
+- Infinite Scroll
 
 ## Getting Started with Create React App
 
